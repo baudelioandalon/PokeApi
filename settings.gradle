@@ -1,0 +1,3 @@
+rootProject.name = "PokeApi"
+include ':app'
+include ':modules:utils'
